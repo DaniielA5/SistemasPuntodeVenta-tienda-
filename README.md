@@ -1,4 +1,7 @@
-# 🎨 Sistema Punto de Venta — "Mas cerca de ti"
+#   _____________________ "Mas cerca de ti"________________
+
+
+Sistema Punto de Venta 
 
 Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"**, desarrollado en **Java** con **Swing (JFrame)** y conectado a **PostgreSQL**. El proyecto se implementó en **NetBeans** y soporta múltiples roles de usuario con permisos específicos.
 
