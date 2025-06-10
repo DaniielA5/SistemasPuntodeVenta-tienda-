@@ -7,21 +7,7 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 
 ---
 
-## 📋 Contenido
 
-1. [Descripción](#descripción)
-2. [Flujo de Inicio de Sesión](#flujo-de-inicio-de-sesión)
-3. [Roles y Permisos](#roles-y-permisos)
-4. [Características Principales](#características-principales)
-5. [Tecnologías](#🛠-tecnologías)
-6. [Requisitos Previos](#⚙️-requisitos-previos)
-7. [Instalación y Configuración](#🚀-instalación-y-configuración)
-8. [Estructura del Proyecto](#📂-estructura-del-proyecto)
-9. [Uso](#🎯-uso)
-10. [Capturas de Pantalla](#🖼-capturas-de-pantalla)
-11. [Video Demostrativo](#🎥-video-demostrativo)
-12. [Créditos](#👥-créditos)
-13. [Estado del Proyecto](#estado-del-proyecto)
 
 ---
 
