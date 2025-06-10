@@ -9,18 +9,19 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 
 ## 📋 Contenido
 
-1. [Descripción](#descripción)
-2. [Flujo de Inicio de Sesión](#flujo-de-inicio-de-sesión)
-3. [Roles y Permisos](#roles-y-permisos)
-4. [Características Principales](#características-principales)
-5. [Tecnologías](#tecnologías)
-6. [Requisitos Previos](#requisitos-previos)
-7. [Instalación y Configuración](#instalación-y-configuración)
-8. [Estructura del Proyecto](#estructura-del-proyecto)
-9. [Uso](#uso)
-10. [Capturas de Pantalla](#capturas-de-pantalla)
-11. [Créditos](#créditos)
-12. [Estado del Proyecto](#estado-del-proyecto)
+1. [Descripción](#📌-descripción)
+2. [Flujo de Inicio de Sesión](#🔒-flujo-de-inicio-de-sesión)
+3. [Roles y Permisos](#👥-roles-y-permisos)
+4. [Características Principales](#✨-características-principales)
+5. [Tecnologías](#🛠-tecnologías)
+6. [Requisitos Previos](#⚙️-requisitos-previos)
+7. [Instalación y Configuración](#🚀-instalación-y-configuración)
+8. [Estructura del Proyecto](#📂-estructura-del-proyecto)
+9. [Uso](#🎯-uso)
+10. [Capturas de Pantalla](#🖼-capturas-de-pantalla)
+11. [Video Demostrativo](#🎥-video-demostrativo)
+12. [Créditos](#👥-créditos)
+13. [Estado del Proyecto](#estado-del-proyecto)
 
 ---
 
@@ -33,7 +34,7 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 1. **Captcha Inicial**: El usuario resuelve un captcha para evitar accesos automatizados.
 2. **Formulario de Login**: Tras el captcha, se abre la ventana de inicio de sesión.
 3. **Validación de Credenciales**: Si las credenciales son correctas, el sistema verifica el rol y redirige al usuario al panel correspondiente.
-
+---
 ## 👥 Roles y Permisos
 
 * **Administrador**
@@ -47,7 +48,7 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 * **Bodeguero**
 
   * Solo puede añadir nuevos productos al inventario.
-
+---
 ## ✨ Características Principales
 
 * **Gestión de Productos**: CRUD completo (Crear, Leer, Actualizar, Eliminar).
@@ -95,7 +96,7 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 
 ## 📂 Estructura del Proyecto
 
-```
+``
 ├── src
 │   ├── app           # Punto de entrada y utilidades
 │   ├── ui            # Formularios Swing (.java + .form)
@@ -104,7 +105,7 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 ├── database
 │   └── schema.sql    # Script de creación de tablas
 └── README.md         # Documentación del proyecto
-```
+``
 
 ## 🎯 Uso
 
@@ -116,11 +117,17 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
    * **Bodeguero**: Módulo de Registro de Productos.
 3. Navega entre pestañas, completa formularios y confirma acciones.
 
-## 🖼 Capturas de Pantalla
+##  🖼 Capturas de Pantalla
 
 ![Captcha](ruta/a/captura_captcha.png)
 ![Login](ruta/a/captura_login.png)
 ![Panel Admin](ruta/a/captura_admin.png)
+
+
+## 🎥 Video Demostrativo
+🔗 (https://youtu.be/jUiSEs8E7WU?si=75sgFT23FFzSy6aa)
+
+
 
 ## 👥 Créditos
 
