@@ -1,4 +1,4 @@
-#   _____________________ "Mas cerca de ti"________________
+#   _________________ "Mas cerca de ti"________________
 
 
 Sistema Punto de Venta 
@@ -120,25 +120,25 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 ## 🖼 Capturas de Pantalla
 
 ### Login
-![Login](imagenes/login.png)
+![Login](login.png)
 
 ### Menú principal
-![Menú](imagenes/menu.png)
+![Menú](menu.png)
 
 ### Agregar producto
-![Agregar](imagenes/agregar.png)
+![Agregar](agregar.png)
 
 ### Editar producto
-![Editar](imagenes/editar.png)
+![Editar](editar.png)
 
 ### Eliminar producto
-![Eliminar](imagenes/eliminar.png)
+![Eliminar](eliminar.png)
 
 ### Ventas
-![Venta](imagenes/venta.png)
+![Venta](venta.png)
 
 ### Gestión de usuarios
-![Usuarios](imagenes/usuario.png)
+![Usuarios](usuario.png)
 
 
 ## 🎥 Video Demostrativo
