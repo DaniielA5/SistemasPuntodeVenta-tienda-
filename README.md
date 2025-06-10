@@ -9,10 +9,10 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 
 ## 📋 Contenido
 
-1. [Descripción](#📌-descripción)
-2. [Flujo de Inicio de Sesión](#🔒-flujo-de-inicio-de-sesión)
-3. [Roles y Permisos](#👥-roles-y-permisos)
-4. [Características Principales](#✨-características-principales)
+1. [Descripción](#descripción)
+2. [Flujo de Inicio de Sesión](#flujo-de-inicio-de-sesión)
+3. [Roles y Permisos](#roles-y-permisos)
+4. [Características Principales](#características-principales)
 5. [Tecnologías](#🛠-tecnologías)
 6. [Requisitos Previos](#⚙️-requisitos-previos)
 7. [Instalación y Configuración](#🚀-instalación-y-configuración)
@@ -25,17 +25,17 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
 
 ---
 
-## 📌 Descripción
+##Descripción
 
 "Tienda Tenis" es una aplicación de escritorio para gestionar las operaciones de una zapatería. Permite la administración de productos, clientes, ventas y usuarios, con un sistema robusto de roles y permisos.
 
-## 🔒 Flujo de Inicio de Sesión
+##Flujo de Inicio de Sesión
 
 1. **Captcha Inicial**: El usuario resuelve un captcha para evitar accesos automatizados.
 2. **Formulario de Login**: Tras el captcha, se abre la ventana de inicio de sesión.
 3. **Validación de Credenciales**: Si las credenciales son correctas, el sistema verifica el rol y redirige al usuario al panel correspondiente.
 ---
-## 👥 Roles y Permisos
+##Roles y Permisos
 
 * **Administrador**
 
