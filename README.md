@@ -117,11 +117,28 @@ Sistema de punto de venta (POS) para una zapatería llamado **"Tienda de tenis"*
    * **Bodeguero**: Módulo de Registro de Productos.
 3. Navega entre pestañas, completa formularios y confirma acciones.
 
-##  🖼 Capturas de Pantalla
+## 🖼 Capturas de Pantalla
 
-![Captcha](ruta/a/captura_captcha.png)
-![Login](ruta/a/captura_login.png)
-![Panel Admin](ruta/a/captura_admin.png)
+### Login
+![Login](imagenes/login.png)
+
+### Menú principal
+![Menú](imagenes/menu.png)
+
+### Agregar producto
+![Agregar](imagenes/agregar.png)
+
+### Editar producto
+![Editar](imagenes/editar.png)
+
+### Eliminar producto
+![Eliminar](imagenes/eliminar.png)
+
+### Ventas
+![Venta](imagenes/venta.png)
+
+### Gestión de usuarios
+![Usuarios](imagenes/usuario.png)
 
 
 ## 🎥 Video Demostrativo
